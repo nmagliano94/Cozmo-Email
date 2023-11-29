@@ -1,0 +1,128 @@
+<mjml html lang="en">
+  <mj-head>
+    <mj-preview>COZMO: Shop now on Black Friday deals!</mj-preview>
+    <mj-title>Cozmo Black Friday early access</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,200;0,300;0,400;0,500;0,700;1,300;1,400" />
+     <mj-raw>
+       <meta name="color-scheme" content="dark"></meta>
+        <meta name="supported-color-schemes" content="dark"></meta>
+    </mj-raw>
+    <mj-attributes>
+      <mj-all font-family="Roboto, Arial, sans-serif" />
+      <mj-text align="center" color="#000" />
+      <mj-section background-color="#fff" />
+      <mj-image padding="0" />
+    </mj-attributes>
+    <mj-style inline="inline"> 
+      .line { 
+      text-decoration: line-through;!important 
+      } 
+
+    </mj-style>
+    
+  </mj-head>
+  <mj-body width="608px">
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="16px" font-weight="300">HASSLE-FREE RETURNS</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- INTRO SECTION -->
+    <mj-section background-color="#000">
+      <mj-column padding="0">
+        <mj-text color="#fff" font-size="28px">COZMO</mj-text>
+        <mj-text color="#fff" font-size="28px" line-height="32px">Black Friday<br>Early Access</mj-text>
+        <mj-text color="#DA6A55" font-size="28px">15% off <span style="font-style:italic;">everything!</span></mj-text>
+        <mj-text color="#fff" font-size="14px" line-height="20px">As a Cozmo VIP, we're giving you exclusive<br>early access to our biggest sale ever.</mj-text>
+        <mj-button href="#" background-color="#DA6A55" font-size="16px" border-radius="8px" inner-padding="10px 50px" padding-bottom="0">SHOP NOW</mj-button>
+        <mj-text><a href="#" style="color:#fff;">Use code: VIP15</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- MAIN IMAGE SECTION -->
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/RhnMm3wH/sofa.jpg" alt="sofa in a living room"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- DREAM HOME SECTION -->
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-text font-size="30px" font-weight="500" line-height="32px">Design Your<br>Dream Home</mj-text>
+        <mj-button href="#" background-color="#DA6A55" font-size="16px" border-radius="8px" inner-padding="10px 50px" padding-bottom="0">SHOP NOW</mj-button>
+        <mj-text><a href="#" style="color:#000;">Use code: VIP15</a></mj-text>
+        <mj-image src="https://i.postimg.cc/tTcX8dnb/livingroom.jpg" padding-top="30px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- LIMITED SECTION -->
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-text font-size="30px" font-weight="500" line-height="32px">Limited pre-<br>Christmas Stock</mj-text>
+        <mj-text font-size="14px" line-height="22px">Save on our beautiful new collections<br>of armchairs and pouffes.</mj-text>
+        <mj-button href="#" background-color="#DA6A55" font-size="16px" border-radius="8px" inner-padding="10px 50px" padding-bottom="0">EXPLORE NOW</mj-button>
+        <mj-text><a href="#" style="color:#000;">Use code: VIP15</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- SALE SECTION -->
+    <mj-section background-color="#000" padding="15px 0 15px 0">
+      <mj-column>
+        <mj-text color="#fff" padding="0" font-size="14px" font-weight="200">EARLY ACCESS ENDS WEDNESDAY AT MIDNIGHT</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F3F3F3" padding-bottom="0">
+      <mj-column>
+        <mj-text font-size="30px" font-weight="500" line-height="32px" padding-bottom="0">This is our biggest<br>sale ever</mj-text>
+        <mj-text font-size="14px">Get in before the rush.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F3F3F3" padding="0">
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/xC8fspCg/navy-chair.png" width="200px"></mj-image>
+        <mj-text font-size="16px" font-weight="700"><span class="line" style="font-weight:300;">$695</span> $590</mj-text>
+        <mj-text font-size="16px" padding-top="0" font-weight="700" line-height="20px">Cozy Armchair<br>Navy Fleece</mj-text>
+        <mj-text><a href="#" style="color:#000; font-size:16px; font-weight:700; line-height:26px;">SHOP THIS STYLE</a></mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/0Nc5018b/ecru-couch.png" width="200px" padding-top="7px"></mj-image>
+        <mj-text font-size="16px" font-weight="700"><span class="line" style="font-weight:300;">$1,995</span> $1,695</mj-text>
+        <mj-text font-size="16px" padding-top="0" font-weight="700" line-height="20px">3 Seater Sofa<br>Ecru Boucle</mj-text>
+        <mj-text><a href="#" style="color:#000; font-size:16px; font-weight:700; line-height:26px;">SHOP THIS STYLE</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F3F3F3" padding="0 0 30px 0">
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/mrb29gWv/henna-cotton.png" width="220px" padding-top="7px"></mj-image>
+        <mj-text font-size="16px" font-weight="700"><span class="line" style="font-weight:300;">$1,995</span> $1,695</mj-text>
+        <mj-text font-size="16px" padding-top="0" font-weight="700" line-height="20px">3 Seater Sofa<br>Henna Cotton</mj-text>
+        <mj-text><a href="#" style="color:#000; font-size:16px; font-weight:700; line-height:26px;">SHOP THIS STYLE</a></mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/7Z1ZbTd1/black-sofa.png" width="200px" padding-top="16px"></mj-image>
+        <mj-text font-size="16px" font-weight="700"><span class="line" style="font-weight:300;">$2,495</span> $2,120</mj-text>
+        <mj-text font-size="16px" padding-top="0" font-weight="700" line-height="20px">Cozy Armchair<br>Navy Fleece</mj-text>
+        <mj-text><a href="#" style="color:#000; font-size:16px; font-weight:700; line-height:26px;">SHOP THIS STYLE</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- FOOTER -->
+    <mj-section background-color="#000">
+      <mj-column>
+        <mj-text color="#fff" font-size="28px">COZMO</mj-text>
+        <mj-text color="#fff" font-size="16px" font-weight="200" line-height="22px">Innovative design meets<br>exceptional comfort</mj-text>
+        <mj-text color="#fff" font-size="16px" font-weight="200" padding="20px 0 0 0"><a href="#" style="color:#fff; text-decoration:none;">Sofas</a></mj-text>
+        <mj-divider border-color="#fff" width="45%" border-width="1px" />
+        <mj-text color="#fff" font-size="16px" font-weight="200"><a href="#" style="color:#fff; text-decoration:none;">Sofa Jackets</a></mj-text>
+        <mj-divider border-color="#fff" width="45%" border-width="1px" />
+        <mj-text color="#fff" font-size="16px" font-weight="200"><a href="#" style="color:#fff; text-decoration:none;">Accessories</a></mj-text>
+        <mj-divider border-color="#fff" width="45%" border-width="1px" />
+        <mj-text color="#fff" font-size="16px" font-weight="200"><a href="#" style="color:#fff; text-decoration:none;">Our Story</a></mj-text>
+        <mj-social icon-size="25px" mode="horizontal" padding-top="25px">
+          <mj-social-element name="instagram" href="https://instagram.com" background-color="#000"></mj-social-element>
+          <mj-social-element name="facebook" href="https://facebook.com" background-color="#000"></mj-social-element>
+          <mj-social-element name="pinterest" href="https://pinterest.com" background-color="#000"></mj-social-element>
+          <mj-social-element name="linkedin" href="https://linkedin.com" background-color="#000"></mj-social-element>
+        </mj-social>
+          <mj-text padding-bottom="0"><a href="#" style="text-decoration:none; color:#fff; font-size:11px;">Unsubscribe.</a></mj-text>
+          <mj-text padding-top="5px"><a href="#" style="text-decoration:none; color:#fff; font-size:11px">mycozmo.com</a></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
